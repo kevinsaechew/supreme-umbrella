@@ -1,2 +1,2 @@
 # supreme-umbrella
-HTML + CSS-FlexBox
+Responsive HTML + CSS-FlexBox Design
